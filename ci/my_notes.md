@@ -8,3 +8,6 @@
 #### Design constraints
 * **Efficiency** - handle high load well
 * **Be fast** - quickly return tests results
+
+#### My architecture diagram
+<img src="my_ci_architecture.png" alt="architecture" width="400"/>
