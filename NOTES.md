@@ -24,3 +24,17 @@ For each chapter I read, I should:
 * Readability: ease to read/understand code
 * Testability: degree to unit and system test the requirements
 * Understandability: easy to comprehend logic
+
+---
+## Preview notes
+**Problem definition**:
+
+#### Design considerations
+
+
+#### Design constraints
+
+## Reading notes
+#### Overview
+
+#### Requirement statisfaction
