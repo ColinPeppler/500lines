@@ -13,7 +13,7 @@ For each chapter I read, I should:
 * Reliability: long delta (in times) between failures
 * Integrity: prevent unauthorized access
 * Adaptability: extent a system can be used in other systems
-* Accuracy: free from error; how well it does its job
+* Accuracy: free from error; how well it does its job (think of ML accuracy)
 * Robustness: the extent system handles invalid inputs and stress
 
 ### Internal characteristics
