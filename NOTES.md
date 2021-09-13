@@ -7,7 +7,7 @@ For each chapter I read, I should:
 
 ## Design characteristics
 ### External characteristics
-* Correctness: degree to which a system is free from faults
+* Correctness: degree to which a system matches its specification
 * Usability: easy which users can use & learn
 * Efficiency: minimal use of resources
 * Reliability: long delta (in times) between failures
