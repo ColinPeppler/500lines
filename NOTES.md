@@ -26,6 +26,7 @@ For each chapter I read, I should:
 * Understandability: easy to comprehend logic
 
 ---
+```
 ## Preview notes
 **Problem definition**:
 
@@ -38,3 +39,4 @@ For each chapter I read, I should:
 #### Overview
 
 #### Requirement statisfaction
+```
