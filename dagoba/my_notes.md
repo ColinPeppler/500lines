@@ -6,10 +6,9 @@
 * **Reusability** - the code should be compact
 
 #### Design constraints
+* **Usability** - making it easy for the user to use will determine how the database architecture
 
 ## Reading notes
-#### Overview
-
 #### Build a Better Graph
 * Uses simple data structures, edge list, vertices list and vertexIndex map for lookup optimization
 * Let users provide a vertex-like object to add to the graph
@@ -43,8 +42,8 @@
 #### Query Transformers
 * Greedy local optimizations may make more impactful global optimizations unavailable
   * As software design should be, iterate and add optimizations if necessary (after impl simple code) 
+  
 #### Requirement statisfaction
-
-Questions
-* What is this prototype inheritance?
-* Why do we need unique refefences?
+* **Usability** - using a mental model balanced between simplicity and practicality
+ * make it easy for users but also optimized so they're not significantly blocked by the query times
+* **Reusability** - balancing between too little and too much structure, high structure for many moving pieces and little structure for small pieces
